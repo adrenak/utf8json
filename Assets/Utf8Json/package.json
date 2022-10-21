@@ -1,0 +1,23 @@
+{
+	"name": "com.cysharp.utf8json",
+	"version": "1.4.0",
+	"displayName": "Utf8json",
+	"description": "Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin).",
+	"unity": "2018.4",
+	"author": {
+		"name": "Yoshifumi Kawai",
+		"url": "https://github.com/neuecc/Utf8Json"
+	},
+	"license": "MIT",
+	"keywords": [
+		"json",
+		"serialization",
+		"upm",
+		"deserialization",
+		"zero-allocation",
+		"c#"
+	],
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org"
+	}
+}

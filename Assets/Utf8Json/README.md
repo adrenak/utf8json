@@ -3,12 +3,14 @@ UPM friendly repo of the [utf8json](https://github.com/neuecc/Utf8Json) fork [by
 - Option 1 (preferred): Go to Project Settings>Package Manager. Add a scoped registry with `https://registry.npmjs.org` as the url. Add `com.cysharp.utf8json` in the scope list. Then go to Package Manager, next to the + button click change from `Unity Registry` to `In Project` package view and install
 - Option 2: In the Unity Package Manager, click the + button, select `Add package from git URL` and enter `https://www.github.com/adrenak/utf8json.git@upm`
 
+
 Utf8Json - Fast JSON Serializer for C#
 ===
 
 [![Join the chat at https://gitter.im/neuecc/Utf8Json](https://badges.gitter.im/neuecc/Utf8Json.svg)](https://gitter.im/neuecc/Utf8Json?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+ [![Releases](https://img.shields.io/github/release/neuecc/Utf8Json.svg)](https://github.com/neuecc/Utf8Json/releases)
 
-Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary to boostup performance. And I adopt the same architecture as the fastest binary serializer, [MessagePack for C#](https://github.com/neuecc/MessagePack-CSharp) that I've developed.
+Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance. And I adopt the same architecture as the fastest binary serializer, [MessagePack for C#](https://github.com/neuecc/MessagePack-CSharp) that I've developed.
 
 ![image](https://user-images.githubusercontent.com/46207/30883721-11e0526e-a348-11e7-86f8-efff85a9afe0.png)
 
