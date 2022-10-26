@@ -1,7 +1,7 @@
 {
-	"name": "com.cysharp.utf8json",
+	"name": "com.adrenak.cysharp.utf8json",
 	"version": "1.4.0",
-	"displayName": "Utf8json",
+	"displayName": "Utf8json (adrenak upm)",
 	"description": "Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin).",
 	"unity": "2018.4",
 	"author": {
